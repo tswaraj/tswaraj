@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
-<h3 align="center">An Ex-Walmart SDE pursuing Master's in Predictive Analytics and Risk Management at the University of Illinois at Urbana Champaign</h3>
-
-- 🔭 I’m currently working on **Analysing the effects of algorithmic bias (of AI models) in business environment**
+<h3 align="center">I am currently pursuing a Master's in Predictive Analytics and Risk Management at the University of Illinois at Urbana Champaign</h3>
 
 - 📫 How to reach me **sthakre2@illinois.edu**
 
