@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swaraj</h1>
-<h3 align="center">I am currently pursuing a Master's in Predictive Analytics and Risk Management at the University of Illinois at Urbana Champaign</h3>
+<h3 align="center">I am currently pursuing a Master's in Predictive Analytics and Risk Management (Department of Mathematics) at the University of Illinois at Urbana Champaign</h3>
 
 - 📫 How to reach me **sthakre2@illinois.edu**
 
